@@ -1354,7 +1354,7 @@ a {
 }
 .cid-uftYjoP7f7 .mbr-overlay {
   background-color: #0c2c68;
-  opacity: 0.7;
+  opacity: 0.9;
 }
 .cid-uftYjoP7f7 .mbr-fallback-image.disabled {
   display: none;
@@ -1456,6 +1456,7 @@ a {
 }
 .cid-ufpvOMSsrF P {
   color: #000000;
+  text-align: left;
 }
 .cid-ufsLjBkDXD {
   padding-top: 5rem;
